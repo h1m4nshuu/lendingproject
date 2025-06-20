@@ -32,7 +32,7 @@ Our vision is to create an accessible, transparent, and secure lending platform 
 
 ## Contract Details
 
-0x5e00c0d5c4c10d4c805aba878d51129a89d513e0
+0xA7481e7012B8D8b0a40569068218570f26a1044c
 
 [Screenshot 2025-06-20 113053](https://github.com/user-attachments/assets/ca1ce7ef-d379-4f47-9e6c-6f980531f7af)
 
